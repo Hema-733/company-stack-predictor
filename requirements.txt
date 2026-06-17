@@ -1,0 +1,4 @@
+streamlit // it is py lib for frontend
+groq
+yfinance
+pandas
